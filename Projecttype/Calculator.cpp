@@ -31,14 +31,14 @@ double Calculator::trig(string func, double t){
 	else if (func == "tan") {
 		return tan(t);
 	}
-	else if ( func == "arcsin") {
-		return asin(t);
+	else if ( func == "csc") {
+		return 1/sin(t);
 	}
-	else if (func == "arccos") {
-		return acos(t);
+	else if (func == "sec") {
+		return 1/cos(t);
 	}
-	else if (func == "arctan") {
-		return atan(t);
+	else if (func == "cot") {
+		return 1/tan(t);
 	}
 	else {
 		return 0.0;

@@ -1,5 +1,6 @@
 # Project:
-![C++ Calculator (1)](https://user-images.githubusercontent.com/98252856/152133731-ef2ec346-9255-4680-a358-2b665f1011bd.png)
+![C++ Calculator (2)](https://user-images.githubusercontent.com/98252856/152134502-1fb77608-0f36-4286-b5e6-c763df57077b.png)
+
 
 ## How to test
 If you run the code, then you will be asked to enter the topic.\

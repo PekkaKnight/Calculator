@@ -1,5 +1,6 @@
-# Project Overview
-    This is a calculator which can do different topics of math, starting from basic Arithmetic from all the way to Combinations, trig, permuatations, and logarithms. 
+# Project:
+![C++ Calculator (1)](https://user-images.githubusercontent.com/98252856/152133731-ef2ec346-9255-4680-a358-2b665f1011bd.png)
+
 ## How to test
 If you run the code, then you will be asked to enter the topic.\
 Enter "Arithmetic" for arithmetic and then input whatever you want to calculate. For example, 5 + 3. or more can be calculated.\
